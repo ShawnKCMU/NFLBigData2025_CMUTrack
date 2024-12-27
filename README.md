@@ -4,9 +4,9 @@ This repository contains our submission for the 2025 NFL Big Data Bowl competiti
 Objective
 Leverage the provided Next Gen Stats tracking data to:
 
-    Generate innovative metrics for player or team performance.
-    Predict offensive and defensive tendencies post-snap.
-    Create actionable insights for coaching, scouting, and strategic analysis.
+Generate innovative metrics for player or team performance.
+Predict offensive and defensive tendencies post-snap.
+Create actionable insights for coaching, scouting, and strategic analysis.
 
 Tracks and Submission
 Our approach aligns with the Metric Track, where we use pre-snap data to evaluate team and player strategy and its relationship to post-snap outcomes. We aim to provide detailed analysis focusing on offensive and defensive schemes, player roles, and game-changing insights.
