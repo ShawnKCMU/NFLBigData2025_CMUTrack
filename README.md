@@ -1,4 +1,7 @@
 **Overview: **
+Our goal is to predict wheter or not it is in a teams best interest to go for it on 4th Down using a variety of factors. 
+
+
 This repository contains our submission for the 2025 NFL Big Data Bowl competition hosted on Kaggle. The challenge focuses on analyzing pre-snap player tracking data to uncover patterns and make actionable predictions about team and player behavior post-snap. This year's theme encourages creativity and insight into player movements, formations, and tendencies before the snap to predict outcomes such as play type, scheme, or individual assignments.
 
 Objective
