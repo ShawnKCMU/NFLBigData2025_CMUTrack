@@ -17,3 +17,6 @@ Our approach aligns with the Metric Track, where we use pre-snap data to evaluat
 Join the Competition
 For more information, visit the NFL Big Data Bowl 2025 on Kaggle.
 https://www.kaggle.com/competitions/nfl-big-data-bowl-2025/overview
+
+
+So far for this year we have cleaned up the dataset. This will give us a head start for next years competition 
